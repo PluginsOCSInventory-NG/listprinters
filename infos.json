@@ -1,0 +1,10 @@
+{
+  "displayName" : "List printers",
+  "author" : ["Valentin DEVILLE"],
+  "contributor" : [],
+  "supportedAgent" : ["Windows"],
+  "description" : {
+    "fr" : "Remonte les imprimantes connectés",
+    "en" : "Retrieve connected printers"
+  }
+}
