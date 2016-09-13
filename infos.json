@@ -4,7 +4,7 @@
   "contributor" : [],
   "supportedAgent" : ["Windows"],
   "description" : {
-    "fr" : "Remonte les imprimantes connectés",
-    "en" : "Retrieve connected printers"
+    "fr" : "Remonte les imprimantes connectées par le réseau",
+    "en" : "Retrieve connected printers on the network"
   }
 }
