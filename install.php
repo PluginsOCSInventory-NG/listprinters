@@ -2,7 +2,7 @@
 function plugin_version_listprinters()
 {
 return array('name' => 'List printers',
-'version' => '1.0',
+'version' => '1.1',
 'author'=> 'Valentin DEVILLE',
 'license' => 'GPLv2',
 'verMinOcs' => '2.2');
